@@ -223,7 +223,7 @@ See LICENSE file for details.
 
 ## 👤 Author
 
-Built for SWE resume portfolio project.
+Built to analyze my fire beats.
 
 ---
 
